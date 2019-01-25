@@ -6,7 +6,7 @@ import pytest
 from common import file_path
 
 pytest.main([
-             "-m login and somke",
+             "-m login",
              "--html={0}/report.html".format(file_path.test_report_path),
              "--junitxml={0}/report.xml".format(file_path.test_report_path),
              "--alluredir={0}".format(file_path.test_allureReport_path),
