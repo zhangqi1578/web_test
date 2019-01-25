@@ -1,0 +1,1547 @@
+{
+  "30de3fa8df0b5ebf1da8e367e5d06fb2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "507fdbb7c2590623",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/24/allure/#testresult/507fdbb7c2590623",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778962237,
+        "stop" : 1544778963402,
+        "duration" : 1165
+      }
+    }, {
+      "uid" : "386089e289c19a70",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/23/allure/#testresult/386089e289c19a70",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778372441,
+        "stop" : 1544778373519,
+        "duration" : 1078
+      }
+    }, {
+      "uid" : "82df640379f0b526",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/22/allure/#testresult/82df640379f0b526",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778242345,
+        "stop" : 1544778243460,
+        "duration" : 1115
+      }
+    }, {
+      "uid" : "aee0ba8c653e8ece",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/21/allure/#testresult/aee0ba8c653e8ece",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778109242,
+        "stop" : 1544778110326,
+        "duration" : 1084
+      }
+    }, {
+      "uid" : "7da78c2b6dd07ac4",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/20/allure/#testresult/7da78c2b6dd07ac4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544777578107,
+        "stop" : 1544777579180,
+        "duration" : 1073
+      }
+    } ]
+  },
+  "bcd5abf51aa90bb7066da6f447b05aeb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "85f5d4e2724c3910",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/24/allure/#testresult/85f5d4e2724c3910",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778960023,
+        "stop" : 1544778960568,
+        "duration" : 545
+      }
+    }, {
+      "uid" : "2e8a1a406a04f8b8",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/23/allure/#testresult/2e8a1a406a04f8b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778370495,
+        "stop" : 1544778371282,
+        "duration" : 787
+      }
+    }, {
+      "uid" : "6275aa3d42998b56",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/22/allure/#testresult/6275aa3d42998b56",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778240692,
+        "stop" : 1544778241222,
+        "duration" : 530
+      }
+    }, {
+      "uid" : "66cc6c88c28a5708",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/21/allure/#testresult/66cc6c88c28a5708",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778107548,
+        "stop" : 1544778108110,
+        "duration" : 562
+      }
+    }, {
+      "uid" : "37fc4fd94560bf5f",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/20/allure/#testresult/37fc4fd94560bf5f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544777576035,
+        "stop" : 1544777576945,
+        "duration" : 910
+      }
+    } ]
+  },
+  "1e556b3195495d3f3bacb1c4236945bb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "7a7f43412584c5f6",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/15/allure/#testresult/7a7f43412584c5f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544710685314,
+        "stop" : 1544710707883,
+        "duration" : 22569
+      }
+    }, {
+      "uid" : "8c2e2300ebc1e17e",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/14/allure/#testresult/8c2e2300ebc1e17e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709628790,
+        "stop" : 1544709651515,
+        "duration" : 22725
+      }
+    } ]
+  },
+  "abc32314e0e9f53b60a1d43f47c204b3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "9b6f0b83e3e93ea2",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/15/allure/#testresult/9b6f0b83e3e93ea2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544710663833,
+        "stop" : 1544710664052,
+        "duration" : 219
+      }
+    }, {
+      "uid" : "aa7f1a08593723af",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/14/allure/#testresult/aa7f1a08593723af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709607244,
+        "stop" : 1544709607495,
+        "duration" : 251
+      }
+    } ]
+  },
+  "5f3c985e7665b43fceb19ddc42de146d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "caa103828985a89d",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/15/allure/#testresult/caa103828985a89d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544710493301,
+        "stop" : 1544710493308,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "b04c0284a4da44f0",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/14/allure/#testresult/b04c0284a4da44f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709425272,
+        "stop" : 1544709425278,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "9fc32bbd093b25e6",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/13/allure/#testresult/9fc32bbd093b25e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709266218,
+        "stop" : 1544709266224,
+        "duration" : 6
+      }
+    } ]
+  },
+  "d248027f92b86a46ae37413cb1cf6c29" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "6bd1594d2447896a",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/24/allure/#testresult/6bd1594d2447896a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778964591,
+        "stop" : 1544778986563,
+        "duration" : 21972
+      }
+    }, {
+      "uid" : "7f62b8e36108fbf0",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/23/allure/#testresult/7f62b8e36108fbf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778374613,
+        "stop" : 1544778396691,
+        "duration" : 22078
+      }
+    }, {
+      "uid" : "94bd4f006936e4d",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/22/allure/#testresult/94bd4f006936e4d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778244562,
+        "stop" : 1544778266502,
+        "duration" : 21940
+      }
+    }, {
+      "uid" : "a7a822e24066461",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/21/allure/#testresult/a7a822e24066461",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778111411,
+        "stop" : 1544778133338,
+        "duration" : 21927
+      }
+    }, {
+      "uid" : "caae3aab6360f7d",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/20/allure/#testresult/caae3aab6360f7d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544777580285,
+        "stop" : 1544777602253,
+        "duration" : 21968
+      }
+    } ]
+  },
+  "45ba88dc33c62399ba816eb6b323e436" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "bfb10e430bc08e55",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/24/allure/#testresult/bfb10e430bc08e55",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778959345,
+        "stop" : 1544778960018,
+        "duration" : 673
+      }
+    }, {
+      "uid" : "cba5bdaec32f9b4e",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/23/allure/#testresult/cba5bdaec32f9b4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778369942,
+        "stop" : 1544778370490,
+        "duration" : 548
+      }
+    }, {
+      "uid" : "b86082c83742fc8b",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/22/allure/#testresult/b86082c83742fc8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778239849,
+        "stop" : 1544778240687,
+        "duration" : 838
+      }
+    }, {
+      "uid" : "601b75df9d3525f8",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/21/allure/#testresult/601b75df9d3525f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778106569,
+        "stop" : 1544778107543,
+        "duration" : 974
+      }
+    }, {
+      "uid" : "e4df62030a98ae7f",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/20/allure/#testresult/e4df62030a98ae7f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544777575203,
+        "stop" : 1544777576030,
+        "duration" : 827
+      }
+    } ]
+  },
+  "b485d12411582a8542ad2eb3362efc44" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "9114411997d7cfd2",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/15/allure/#testresult/9114411997d7cfd2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544710641691,
+        "stop" : 1544710642561,
+        "duration" : 870
+      }
+    }, {
+      "uid" : "232b4ca917fa723e",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/14/allure/#testresult/232b4ca917fa723e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709585086,
+        "stop" : 1544709585964,
+        "duration" : 878
+      }
+    } ]
+  },
+  "7b9acc8a476d5e450bac82f3852ef8c2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "c5dc97d07bdb3128",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/26/allure/#testresult/c5dc97d07bdb3128",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548406118819,
+        "stop" : 1548406119371,
+        "duration" : 552
+      }
+    }, {
+      "uid" : "1c7be65a0b793305",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/25/allure/#testresult/1c7be65a0b793305",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544779828123,
+        "stop" : 1544779828685,
+        "duration" : 562
+      }
+    }, {
+      "uid" : "b3b50808b7bb4e7d",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/18/allure/#testresult/b3b50808b7bb4e7d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544775644813,
+        "stop" : 1544775645354,
+        "duration" : 541
+      }
+    }, {
+      "uid" : "e2677e656b4e8dac",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/17/allure/#testresult/e2677e656b4e8dac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544774997083,
+        "stop" : 1544774998603,
+        "duration" : 1520
+      }
+    }, {
+      "uid" : "813bcc340aff8a0f",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/16/allure/#testresult/813bcc340aff8a0f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544774191094,
+        "stop" : 1544774191658,
+        "duration" : 564
+      }
+    } ]
+  },
+  "362e8f122da0cdcb841514453f726412" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "4303aca84ac89605",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/26/allure/#testresult/4303aca84ac89605",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548406121242,
+        "stop" : 1548406122300,
+        "duration" : 1058
+      }
+    }, {
+      "uid" : "5f534a33431bd942",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/25/allure/#testresult/5f534a33431bd942",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544779830376,
+        "stop" : 1544779831498,
+        "duration" : 1122
+      }
+    }, {
+      "uid" : "ea632328d2aa2405",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/18/allure/#testresult/ea632328d2aa2405",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544775647072,
+        "stop" : 1544775648166,
+        "duration" : 1094
+      }
+    }, {
+      "uid" : "43946db27715f09d",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/17/allure/#testresult/43946db27715f09d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544775000283,
+        "stop" : 1544775001372,
+        "duration" : 1089
+      }
+    }, {
+      "uid" : "fb5c4a8cad4dce3f",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/16/allure/#testresult/fb5c4a8cad4dce3f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544774193320,
+        "stop" : 1544774194404,
+        "duration" : 1084
+      }
+    } ]
+  },
+  "b6e94c7aff78b2912433fcf26b40132" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "b73e64610d10a867",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/24/allure/#testresult/b73e64610d10a867",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778953424,
+        "stop" : 1544778953432,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "7b10e15dc244e608",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/23/allure/#testresult/7b10e15dc244e608",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778364885,
+        "stop" : 1544778364892,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "81c2ed2efa13dc23",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/22/allure/#testresult/81c2ed2efa13dc23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778234451,
+        "stop" : 1544778234458,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "91a8f8d8bdf3467d",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/21/allure/#testresult/91a8f8d8bdf3467d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778101421,
+        "stop" : 1544778101427,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "a92623619a9e1ee9",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/20/allure/#testresult/a92623619a9e1ee9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544777570161,
+        "stop" : 1544777570168,
+        "duration" : 7
+      }
+    } ]
+  },
+  "f24fb0a84084d98300b7e2729eede3b7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "13218476749a606f",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/24/allure/#testresult/13218476749a606f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778961537,
+        "stop" : 1544778962233,
+        "duration" : 696
+      }
+    }, {
+      "uid" : "e9044d6ab88aa61e",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/23/allure/#testresult/e9044d6ab88aa61e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778371838,
+        "stop" : 1544778372437,
+        "duration" : 599
+      }
+    }, {
+      "uid" : "467853a199118f74",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/22/allure/#testresult/467853a199118f74",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778241782,
+        "stop" : 1544778242341,
+        "duration" : 559
+      }
+    }, {
+      "uid" : "1f530a035cb62c50",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/21/allure/#testresult/1f530a035cb62c50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778108684,
+        "stop" : 1544778109237,
+        "duration" : 553
+      }
+    }, {
+      "uid" : "9c4dc380ff36b075",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/20/allure/#testresult/9c4dc380ff36b075",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544777577532,
+        "stop" : 1544777578099,
+        "duration" : 567
+      }
+    } ]
+  },
+  "fa4a9af149588111d3d8718ce775bb5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "bdfca147b1cbb19e",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/15/allure/#testresult/bdfca147b1cbb19e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544710493311,
+        "stop" : 1544710498381,
+        "duration" : 5070
+      }
+    }, {
+      "uid" : "ec5ece4c6c883220",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/14/allure/#testresult/ec5ece4c6c883220",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709425282,
+        "stop" : 1544709430697,
+        "duration" : 5415
+      }
+    }, {
+      "uid" : "4a554e7cb1f2a3e1",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/13/allure/#testresult/4a554e7cb1f2a3e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709266228,
+        "stop" : 1544709271343,
+        "duration" : 5115
+      }
+    } ]
+  },
+  "8fbacb5866452a6d8d51254fd8ef9bf8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "f0c9d0567561eb8c",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/15/allure/#testresult/f0c9d0567561eb8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544710498386,
+        "stop" : 1544710499171,
+        "duration" : 785
+      }
+    }, {
+      "uid" : "b6d8b0bbc69e4ab3",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/14/allure/#testresult/b6d8b0bbc69e4ab3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709430701,
+        "stop" : 1544709431603,
+        "duration" : 902
+      }
+    }, {
+      "uid" : "7051a1604f395e5a",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/13/allure/#testresult/7051a1604f395e5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709271347,
+        "stop" : 1544709272174,
+        "duration" : 827
+      }
+    } ]
+  },
+  "9d38eed90f09c6b7fb89f234fccffdc1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d9c44947e1a437ad",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/14/allure/#testresult/d9c44947e1a437ad",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False",
+      "time" : {
+        "start" : 1544709460608,
+        "stop" : 1544709470800,
+        "duration" : 10192
+      }
+    } ]
+  },
+  "3dab21fea195ff9a929130787757e536" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "51a505871a9af59c",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/24/allure/#testresult/51a505871a9af59c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778953435,
+        "stop" : 1544778959341,
+        "duration" : 5906
+      }
+    }, {
+      "uid" : "72d4b4089ba58e84",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/23/allure/#testresult/72d4b4089ba58e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778364895,
+        "stop" : 1544778369938,
+        "duration" : 5043
+      }
+    }, {
+      "uid" : "f838a9cbc2236e20",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/22/allure/#testresult/f838a9cbc2236e20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778234461,
+        "stop" : 1544778239845,
+        "duration" : 5384
+      }
+    }, {
+      "uid" : "250a3d8ff4365936",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/21/allure/#testresult/250a3d8ff4365936",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778101431,
+        "stop" : 1544778106564,
+        "duration" : 5133
+      }
+    }, {
+      "uid" : "2f38127e5a3c04cf",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/20/allure/#testresult/2f38127e5a3c04cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544777570171,
+        "stop" : 1544777575198,
+        "duration" : 5027
+      }
+    } ]
+  },
+  "f5af552cada3df64e26071dcc905b29b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "8236653ff8164a35",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/15/allure/#testresult/8236653ff8164a35",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544710502077,
+        "stop" : 1544710503199,
+        "duration" : 1122
+      }
+    }, {
+      "uid" : "d750284f865eb77",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/14/allure/#testresult/d750284f865eb77",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709435482,
+        "stop" : 1544709436563,
+        "duration" : 1081
+      }
+    }, {
+      "uid" : "2abf4b441ab4c516",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/13/allure/#testresult/2abf4b441ab4c516",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709275134,
+        "stop" : 1544709276274,
+        "duration" : 1140
+      }
+    } ]
+  },
+  "9d3136815bd0bf4ae44dae5c9d3b13ab" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "a2d085d16ac92b66",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/15/allure/#testresult/a2d085d16ac92b66",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544710619559,
+        "stop" : 1544710620421,
+        "duration" : 862
+      }
+    }, {
+      "uid" : "433dc52885f3e2e3",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/14/allure/#testresult/433dc52885f3e2e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709562908,
+        "stop" : 1544709563794,
+        "duration" : 886
+      }
+    } ]
+  },
+  "69f0e2d476f1ce57a5d833d8be265eba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "3f7b599aa006732",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/26/allure/#testresult/3f7b599aa006732",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548406111549,
+        "stop" : 1548406117730,
+        "duration" : 6181
+      }
+    }, {
+      "uid" : "54f079c19db724ef",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/25/allure/#testresult/54f079c19db724ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544779821843,
+        "stop" : 1544779827009,
+        "duration" : 5166
+      }
+    }, {
+      "uid" : "ca308fd7f91de9f4",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/18/allure/#testresult/ca308fd7f91de9f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544775638686,
+        "stop" : 1544775643530,
+        "duration" : 4844
+      }
+    }, {
+      "uid" : "aedaa403bee09af3",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/17/allure/#testresult/aedaa403bee09af3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544774989786,
+        "stop" : 1544774995752,
+        "duration" : 5966
+      }
+    }, {
+      "uid" : "4cad8bcbc0af3ffd",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/16/allure/#testresult/4cad8bcbc0af3ffd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544774184872,
+        "stop" : 1544774189962,
+        "duration" : 5090
+      }
+    } ]
+  },
+  "e362d72e830cb97e4a6d0e447856c5de" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "688fd4a6b8ff3de2",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/24/allure/#testresult/688fd4a6b8ff3de2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778960573,
+        "stop" : 1544778961532,
+        "duration" : 959
+      }
+    }, {
+      "uid" : "cbe04f77637859a7",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/23/allure/#testresult/cbe04f77637859a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778371287,
+        "stop" : 1544778371833,
+        "duration" : 546
+      }
+    }, {
+      "uid" : "67621ec54dd2e1dc",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/22/allure/#testresult/67621ec54dd2e1dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778241227,
+        "stop" : 1544778241778,
+        "duration" : 551
+      }
+    }, {
+      "uid" : "76a809bf03a29617",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/21/allure/#testresult/76a809bf03a29617",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778108114,
+        "stop" : 1544778108679,
+        "duration" : 565
+      }
+    }, {
+      "uid" : "1370dd0f77d4cba2",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/20/allure/#testresult/1370dd0f77d4cba2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544777576950,
+        "stop" : 1544777577527,
+        "duration" : 577
+      }
+    } ]
+  },
+  "ccd6e61bf8ae989b757777fc5e5e2dfd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "f01b0ceec9aade38",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/26/allure/#testresult/f01b0ceec9aade38",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548406119953,
+        "stop" : 1548406121233,
+        "duration" : 1280
+      }
+    }, {
+      "uid" : "dbb4f91963fcb8a9",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/25/allure/#testresult/dbb4f91963fcb8a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544779829254,
+        "stop" : 1544779830369,
+        "duration" : 1115
+      }
+    }, {
+      "uid" : "352c63482c560e9b",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/18/allure/#testresult/352c63482c560e9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544775645928,
+        "stop" : 1544775647067,
+        "duration" : 1139
+      }
+    }, {
+      "uid" : "bef13bd0b99c9dc",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/17/allure/#testresult/bef13bd0b99c9dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544774999178,
+        "stop" : 1544775000278,
+        "duration" : 1100
+      }
+    }, {
+      "uid" : "d7b72ed506e8c122",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/16/allure/#testresult/d7b72ed506e8c122",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544774192231,
+        "stop" : 1544774193315,
+        "duration" : 1084
+      }
+    } ]
+  },
+  "b94900cbe102f7cf178e14cca5e5c716" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "e5b075db7b4ec261",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/26/allure/#testresult/e5b075db7b4ec261",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548406111537,
+        "stop" : 1548406111545,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "537ac2708a8c595a",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/25/allure/#testresult/537ac2708a8c595a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544779821832,
+        "stop" : 1544779821839,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "3ceec065d61fa837",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/18/allure/#testresult/3ceec065d61fa837",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544775638675,
+        "stop" : 1544775638683,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "c7c2a9e9395764e1",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/17/allure/#testresult/c7c2a9e9395764e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544774989776,
+        "stop" : 1544774989783,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "5ed8a2c86b569f4",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/16/allure/#testresult/5ed8a2c86b569f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544774184853,
+        "stop" : 1544774184868,
+        "duration" : 15
+      }
+    } ]
+  },
+  "aea2d60f91ac053dfd862fe9b1040d0e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "9ad690d18150b202",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/15/allure/#testresult/9ad690d18150b202",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544710500907,
+        "stop" : 1544710502070,
+        "duration" : 1163
+      }
+    }, {
+      "uid" : "6be08587aa3b1d5a",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/14/allure/#testresult/6be08587aa3b1d5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709433303,
+        "stop" : 1544709435478,
+        "duration" : 2175
+      }
+    }, {
+      "uid" : "e6fee732eea36321",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/13/allure/#testresult/e6fee732eea36321",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709273957,
+        "stop" : 1544709275129,
+        "duration" : 1172
+      }
+    } ]
+  },
+  "eaad97188c2c8ffb272f792f6e528579" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "dd147219b895ea75",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/15/allure/#testresult/dd147219b895ea75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544710527434,
+        "stop" : 1544710576200,
+        "duration" : 48766
+      }
+    }, {
+      "uid" : "44abf3c2727a6a1b",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/14/allure/#testresult/44abf3c2727a6a1b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709470805,
+        "stop" : 1544709519477,
+        "duration" : 48672
+      }
+    } ]
+  },
+  "5c4be531556ca55e284739ed9eb95eb5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "c4c9281912c93795",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/26/allure/#testresult/c4c9281912c93795",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548406119385,
+        "stop" : 1548406119940,
+        "duration" : 555
+      }
+    }, {
+      "uid" : "8b2eae70d79bd47c",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/25/allure/#testresult/8b2eae70d79bd47c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544779828689,
+        "stop" : 1544779829250,
+        "duration" : 561
+      }
+    }, {
+      "uid" : "26d25b7364fb69fb",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/18/allure/#testresult/26d25b7364fb69fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544775645358,
+        "stop" : 1544775645923,
+        "duration" : 565
+      }
+    }, {
+      "uid" : "5c975af9e2752e60",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/17/allure/#testresult/5c975af9e2752e60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544774998608,
+        "stop" : 1544774999174,
+        "duration" : 566
+      }
+    }, {
+      "uid" : "e9373c87d28aa566",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/16/allure/#testresult/e9373c87d28aa566",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544774191663,
+        "stop" : 1544774192226,
+        "duration" : 563
+      }
+    } ]
+  },
+  "6a95c9b09fa2cebbff84277290762cb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "56a4c26e5017a5a9",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/15/allure/#testresult/56a4c26e5017a5a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544710499175,
+        "stop" : 1544710499745,
+        "duration" : 570
+      }
+    }, {
+      "uid" : "bef5e0539ef95431",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/14/allure/#testresult/bef5e0539ef95431",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709431608,
+        "stop" : 1544709432154,
+        "duration" : 546
+      }
+    }, {
+      "uid" : "7be7a99c04d50dfd",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/13/allure/#testresult/7be7a99c04d50dfd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709272179,
+        "stop" : 1544709272722,
+        "duration" : 543
+      }
+    } ]
+  },
+  "812948aca64b1549bcbc3bbbad167509" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "1f8881cfe72f8598",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/15/allure/#testresult/1f8881cfe72f8598",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544710597473,
+        "stop" : 1544710598306,
+        "duration" : 833
+      }
+    }, {
+      "uid" : "7a23031fb2a77d3a",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/14/allure/#testresult/7a23031fb2a77d3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709540758,
+        "stop" : 1544709541637,
+        "duration" : 879
+      }
+    } ]
+  },
+  "2a95ae263ac585471c8d5c635f514c5f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "9144fa1e3e0aae04",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/15/allure/#testresult/9144fa1e3e0aae04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544710503203,
+        "stop" : 1544710525351,
+        "duration" : 22148
+      }
+    }, {
+      "uid" : "14f09b30ca6fc2a1",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/14/allure/#testresult/14f09b30ca6fc2a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709436567,
+        "stop" : 1544709458500,
+        "duration" : 21933
+      }
+    }, {
+      "uid" : "3571e0c72cc30d43",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/13/allure/#testresult/3571e0c72cc30d43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709276279,
+        "stop" : 1544709298378,
+        "duration" : 22099
+      }
+    } ]
+  },
+  "f67307fb593948d2951418911e85ced3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "d245385c788bc222",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/26/allure/#testresult/d245385c788bc222",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548406118293,
+        "stop" : 1548406118807,
+        "duration" : 514
+      }
+    }, {
+      "uid" : "3246b3e0e0f5b985",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/25/allure/#testresult/3246b3e0e0f5b985",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544779827594,
+        "stop" : 1544779828119,
+        "duration" : 525
+      }
+    }, {
+      "uid" : "e476b6336bb3fdb5",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/18/allure/#testresult/e476b6336bb3fdb5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544775644123,
+        "stop" : 1544775644809,
+        "duration" : 686
+      }
+    }, {
+      "uid" : "740610dae53c6b51",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/17/allure/#testresult/740610dae53c6b51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544774996548,
+        "stop" : 1544774997078,
+        "duration" : 530
+      }
+    }, {
+      "uid" : "2839123f98b400e1",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/16/allure/#testresult/2839123f98b400e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544774190578,
+        "stop" : 1544774191090,
+        "duration" : 512
+      }
+    } ]
+  },
+  "20603d58219196b6286c8cb075a0ea0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "8116075ca3aeaa0f",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/15/allure/#testresult/8116075ca3aeaa0f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544710499749,
+        "stop" : 1544710500303,
+        "duration" : 554
+      }
+    }, {
+      "uid" : "c03d8112fc6faf41",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/14/allure/#testresult/c03d8112fc6faf41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709432159,
+        "stop" : 1544709432715,
+        "duration" : 556
+      }
+    }, {
+      "uid" : "d3be53fb15845fbd",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/13/allure/#testresult/d3be53fb15845fbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709272727,
+        "stop" : 1544709273325,
+        "duration" : 598
+      }
+    } ]
+  },
+  "e256cb1e39d54531cb10d9c9d42559ed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "456b0e44cf906ec4",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/15/allure/#testresult/456b0e44cf906ec4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544710500307,
+        "stop" : 1544710500903,
+        "duration" : 596
+      }
+    }, {
+      "uid" : "dfe4325d084bac28",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/14/allure/#testresult/dfe4325d084bac28",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709432720,
+        "stop" : 1544709433299,
+        "duration" : 579
+      }
+    }, {
+      "uid" : "7ca9ab4fa91d3bef",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/13/allure/#testresult/7ca9ab4fa91d3bef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544709273330,
+        "stop" : 1544709273942,
+        "duration" : 612
+      }
+    } ]
+  },
+  "f6540fb603b980051baf66225c9fd0d0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "e5189e4c82f168e2",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/26/allure/#testresult/e5189e4c82f168e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548406122305,
+        "stop" : 1548406144187,
+        "duration" : 21882
+      }
+    }, {
+      "uid" : "4ac0673720f46f54",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/25/allure/#testresult/4ac0673720f46f54",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544779831503,
+        "stop" : 1544779853380,
+        "duration" : 21877
+      }
+    }, {
+      "uid" : "71fe3f7c391579d2",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/18/allure/#testresult/71fe3f7c391579d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544775648171,
+        "stop" : 1544775670079,
+        "duration" : 21908
+      }
+    }, {
+      "uid" : "2b36cacbaa3a0a25",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/17/allure/#testresult/2b36cacbaa3a0a25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544775001376,
+        "stop" : 1544775023298,
+        "duration" : 21922
+      }
+    }, {
+      "uid" : "70cfd754b03e4e51",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/16/allure/#testresult/70cfd754b03e4e51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544774194410,
+        "stop" : 1544774216261,
+        "duration" : 21851
+      }
+    } ]
+  },
+  "462b72e9f767da5c363f3373b828fc55" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "9f6f4d0f9c8776fd",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/26/allure/#testresult/9f6f4d0f9c8776fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548406117742,
+        "stop" : 1548406118289,
+        "duration" : 547
+      }
+    }, {
+      "uid" : "2258194120005fc8",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/25/allure/#testresult/2258194120005fc8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544779827013,
+        "stop" : 1544779827589,
+        "duration" : 576
+      }
+    }, {
+      "uid" : "2c615a86830d8fbb",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/18/allure/#testresult/2c615a86830d8fbb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544775643534,
+        "stop" : 1544775644119,
+        "duration" : 585
+      }
+    }, {
+      "uid" : "f1e846499ec11fe6",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/17/allure/#testresult/f1e846499ec11fe6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544774995756,
+        "stop" : 1544774996544,
+        "duration" : 788
+      }
+    }, {
+      "uid" : "b1e4178675cfadc2",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/16/allure/#testresult/b1e4178675cfadc2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544774189967,
+        "stop" : 1544774190573,
+        "duration" : 606
+      }
+    } ]
+  },
+  "e20ef08cb64d88051255dfbaf81a0bbf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "d8ef1cd39038ffd0",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/24/allure/#testresult/d8ef1cd39038ffd0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778963409,
+        "stop" : 1544778964583,
+        "duration" : 1174
+      }
+    }, {
+      "uid" : "c7cec0bfcf273110",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/23/allure/#testresult/c7cec0bfcf273110",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778373524,
+        "stop" : 1544778374608,
+        "duration" : 1084
+      }
+    }, {
+      "uid" : "3ad5b187d8374839",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/22/allure/#testresult/3ad5b187d8374839",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778243464,
+        "stop" : 1544778244558,
+        "duration" : 1094
+      }
+    }, {
+      "uid" : "9cd00bc4ee8650d8",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/21/allure/#testresult/9cd00bc4ee8650d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544778110331,
+        "stop" : 1544778111407,
+        "duration" : 1076
+      }
+    }, {
+      "uid" : "a34d49e76c496a48",
+      "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/20/allure/#testresult/a34d49e76c496a48",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544777579185,
+        "stop" : 1544777580280,
+        "duration" : 1095
+      }
+    } ]
+  }
+}

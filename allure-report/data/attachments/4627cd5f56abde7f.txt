@@ -1,0 +1,2 @@
+conftest.py                 17 INFO     session级别fixture------开始------
+conftest.py                 23 INFO     module级别fixture------开始------

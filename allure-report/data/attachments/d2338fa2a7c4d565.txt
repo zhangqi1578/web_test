@@ -1,0 +1,2 @@
+ Fri, 25 Jan 2019 16:48:31  INFO conftest.py init_session [ line:17 ] session����fixture------��ʼ------
+ Fri, 25 Jan 2019 16:48:31  INFO conftest.py init_module [ line:23 ] module����fixture------��ʼ------

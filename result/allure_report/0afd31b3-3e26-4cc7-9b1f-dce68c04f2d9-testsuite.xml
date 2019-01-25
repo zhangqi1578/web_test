@@ -1,0 +1,166 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1548406111537" stop="1548406144187">
+  <name>python10_WebAuto.Test_Case</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1548406111537" status="passed" stop="1548406111545">
+      <name>test_00_login_v2.test_demo</name>
+      <attachments>
+        <attachment source="5fadaf1e-326e-4f45-b04b-43eecf1f226e-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="0f23d290-c514-4858-8593-994bf90dfeca-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="db49d75e-acae-4382-a1d9-0f0bd1f11ec1-attachment.txt" title="Captured stderr setup" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8948-MainThread"/>
+        <label name="host" value="mucang-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1548406111549" status="passed" stop="1548406117730">
+      <description>异常登录【from错误提示】，测试用例步骤及断言实现一样的可以通过ddt来执行</description>
+      <name>test_00_login_v2.TestLogin.test_login_error_form[data0]</name>
+      <attachments>
+        <attachment source="8f7d9b48-a3ec-4ab5-846e-b3b0509cf24b-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="ca0053f3-c1be-4bbd-9837-117ffefcdc00-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="a1560831-4c8e-46eb-9ea2-13615e05ac8f-attachment.txt" title="Captured log call" type="text/plain"/>
+        <attachment source="c17099e8-de3f-4869-9718-dc0a5f802924-attachment.txt" title="Captured stderr setup" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8948-MainThread"/>
+        <label name="host" value="mucang-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1548406117742" status="passed" stop="1548406118289">
+      <description>异常登录【from错误提示】，测试用例步骤及断言实现一样的可以通过ddt来执行</description>
+      <name>test_00_login_v2.TestLogin.test_login_error_form[data1]</name>
+      <attachments>
+        <attachment source="1e87c7a1-25d8-4ee0-8aa2-fcb519b47c78-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="c08b6181-0164-4380-86a0-5a41497c5f8a-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="bbbde993-1dc3-4db2-89e0-c334a9094862-attachment.txt" title="Captured log call" type="text/plain"/>
+        <attachment source="7fa6466e-19e8-4bf0-a3b5-6cc3b2b3a183-attachment.txt" title="Captured stderr setup" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8948-MainThread"/>
+        <label name="host" value="mucang-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1548406118293" status="passed" stop="1548406118807">
+      <description>异常登录【from错误提示】，测试用例步骤及断言实现一样的可以通过ddt来执行</description>
+      <name>test_00_login_v2.TestLogin.test_login_error_form[data2]</name>
+      <attachments>
+        <attachment source="47f5e91d-e0d9-4b30-a301-70b33088d718-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="46eab2f9-4546-4ba3-b225-d499a7541277-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="0a45ae15-fc79-424b-8b77-5280b5e5649d-attachment.txt" title="Captured log call" type="text/plain"/>
+        <attachment source="431e2cd8-f1f1-4b8f-b221-ad85b7915b93-attachment.txt" title="Captured stderr setup" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8948-MainThread"/>
+        <label name="host" value="mucang-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1548406118819" status="passed" stop="1548406119371">
+      <description>异常登录【from错误提示】，测试用例步骤及断言实现一样的可以通过ddt来执行</description>
+      <name>test_00_login_v2.TestLogin.test_login_error_form[data3]</name>
+      <attachments>
+        <attachment source="ff493705-278c-4159-bf36-42e56ec9411d-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="24705edb-0247-4efe-bc7d-e9dbd5fd06e9-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="accecbb4-beff-49a9-a8eb-4ed5602b6486-attachment.txt" title="Captured log call" type="text/plain"/>
+        <attachment source="ac778af4-74be-4088-818d-2a925b706a01-attachment.txt" title="Captured stderr setup" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8948-MainThread"/>
+        <label name="host" value="mucang-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1548406119385" status="passed" stop="1548406119940">
+      <description>异常登录【from错误提示】，测试用例步骤及断言实现一样的可以通过ddt来执行</description>
+      <name>test_00_login_v2.TestLogin.test_login_error_form[data4]</name>
+      <attachments>
+        <attachment source="b2518363-7837-47bc-99ed-6620edd046e6-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="5ed56401-5893-494f-b9b0-1ab77872300d-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="63f83614-0915-4c1a-9787-07071feb935f-attachment.txt" title="Captured log call" type="text/plain"/>
+        <attachment source="dee0c175-eaf4-46e6-bd3a-2d0ae5243343-attachment.txt" title="Captured stderr setup" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8948-MainThread"/>
+        <label name="host" value="mucang-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1548406119953" status="passed" stop="1548406121233">
+      <description>异常登录【错误提示pageCenter-totast】，测试用例步骤及断言实现一样的可以通过ddt来执行</description>
+      <name>test_00_login_v2.TestLogin.test_login_error_pageCenter[data0]</name>
+      <attachments>
+        <attachment source="9d23c55f-d155-4f96-bb3f-cf5b9210692f-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="3a00d3e7-d9a2-492d-89ce-0fbdc1971597-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="ef619336-0447-47f8-9f94-d957aa68d568-attachment.txt" title="Captured log call" type="text/plain"/>
+        <attachment source="5280f5d0-23f3-47bf-a602-4a8cb45ad581-attachment.txt" title="Captured stderr setup" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8948-MainThread"/>
+        <label name="host" value="mucang-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1548406121242" status="passed" stop="1548406122300">
+      <description>异常登录【错误提示pageCenter-totast】，测试用例步骤及断言实现一样的可以通过ddt来执行</description>
+      <name>test_00_login_v2.TestLogin.test_login_error_pageCenter[data1]</name>
+      <attachments>
+        <attachment source="501e0b0b-be83-4de8-826b-149a2da90de8-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="fc5d7c38-be88-4997-b56f-47b642bccb2e-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="3d538997-08d6-4c8d-a125-78e13c91d87f-attachment.txt" title="Captured log call" type="text/plain"/>
+        <attachment source="09a2db78-514f-4b7b-a357-169d64d05298-attachment.txt" title="Captured stderr setup" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8948-MainThread"/>
+        <label name="host" value="mucang-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1548406122305" status="passed" stop="1548406144187">
+      <description>正常登录</description>
+      <name>test_00_login_v2.TestLogin.test_login_success</name>
+      <attachments>
+        <attachment source="d5e778df-80a2-4017-ad58-689243cb3e69-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="d23d4497-9a76-44b6-bb23-2f081108d60a-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="2b726a94-38fa-4c7a-be1c-a750a3075c52-attachment.txt" title="Captured log call" type="text/plain"/>
+        <attachment source="aa6b23be-c413-4e5f-b125-00823f4b651d-attachment.txt" title="Captured stderr setup" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8948-MainThread"/>
+        <label name="host" value="mucang-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

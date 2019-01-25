@@ -1,0 +1,141 @@
+{
+  "uid" : "e5189e4c82f168e2",
+  "name" : "test_00_login_v2.TestLogin.test_login_success",
+  "fullName" : "python10_WebAuto.Test_Case.test_00_login_v2.TestLogin.test_login_success",
+  "historyId" : "f6540fb603b980051baf66225c9fd0d0",
+  "time" : {
+    "start" : 1548406122305,
+    "stop" : 1548406144187,
+    "duration" : 21882
+  },
+  "description" : "正常登录",
+  "descriptionHtml" : "<p>正常登录</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e61bca3592bdf12c",
+      "name" : "Captured log setup",
+      "source" : "e61bca3592bdf12c.txt",
+      "type" : "text/plain",
+      "size" : 86
+    }, {
+      "uid" : "302f83531b5eee6c",
+      "name" : "Captured stderr call",
+      "source" : "302f83531b5eee6c.txt",
+      "type" : "text/plain",
+      "size" : 2838
+    }, {
+      "uid" : "d6874948b93ecde3",
+      "name" : "Captured log call",
+      "source" : "d6874948b93ecde3.txt",
+      "type" : "text/plain",
+      "size" : 1841
+    }, {
+      "uid" : "e1345861997b3dc9",
+      "name" : "Captured stderr setup",
+      "source" : "e1345861997b3dc9.txt",
+      "type" : "text/plain",
+      "size" : 141
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "mucang-PC"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "8948-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "python10_WebAuto.Test_Case"
+  }, {
+    "name" : "testClass",
+    "value" : "python10_WebAuto.Test_Case"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_00_login_v2.TestLogin.test_login_success"
+  }, {
+    "name" : "package",
+    "value" : "python10_WebAuto.Test_Case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "4ac0673720f46f54",
+        "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/25/allure/#testresult/4ac0673720f46f54",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544779831503,
+          "stop" : 1544779853380,
+          "duration" : 21877
+        }
+      }, {
+        "uid" : "71fe3f7c391579d2",
+        "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/18/allure/#testresult/71fe3f7c391579d2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544775648171,
+          "stop" : 1544775670079,
+          "duration" : 21908
+        }
+      }, {
+        "uid" : "2b36cacbaa3a0a25",
+        "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/17/allure/#testresult/2b36cacbaa3a0a25",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544775001376,
+          "stop" : 1544775023298,
+          "duration" : 21922
+        }
+      }, {
+        "uid" : "70cfd754b03e4e51",
+        "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/16/allure/#testresult/70cfd754b03e4e51",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544774194410,
+          "stop" : 1544774216261,
+          "duration" : 21851
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e5189e4c82f168e2.json",
+  "parameterValues" : [ ]
+}

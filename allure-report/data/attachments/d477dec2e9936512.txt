@@ -1,0 +1,25 @@
+ Fri, 25 Jan 2019 16:48:37  INFO test_00_login_v2.py test_login_error_form [ line:39 ] ��������_��¼����_{'pwd': 'python', 'username': '', 'check': '�������ֻ���'}
+ Fri, 25 Jan 2019 16:48:37  INFO base_page.py wait_eleVisible [ line:33 ] �ȴ�Ԫ��:(��¼ҳ_login)
+ Fri, 25 Jan 2019 16:48:37  INFO base_page.py wait_eleVisible [ line:38 ] �ȴ�Ԫ�سɹ�:��¼ҳ_login����ʱ:0.0370020866394043
+ Fri, 25 Jan 2019 16:48:37  INFO base_page.py find_element [ line:46 ] ����Ԫ��:(��¼ҳ_login)
+ Fri, 25 Jan 2019 16:48:37  INFO base_page.py clear_input_text [ line:66 ] ���������ı�:(��¼ҳ_login)
+ Fri, 25 Jan 2019 16:48:37  INFO base_page.py clear_input_text [ line:69 ] ��������ɹ�:(��¼ҳ_login)
+ Fri, 25 Jan 2019 16:48:37  INFO base_page.py find_element [ line:46 ] ����Ԫ��:(��¼ҳ_login)
+ Fri, 25 Jan 2019 16:48:37  INFO base_page.py send_keys [ line:77 ] ��¼ҳ_login_�����ı�:
+ Fri, 25 Jan 2019 16:48:37  INFO base_page.py send_keys [ line:80 ] ��¼ҳ_login_�����ı��ɹ�:
+ Fri, 25 Jan 2019 16:48:37  INFO base_page.py wait_eleVisible [ line:33 ] �ȴ�Ԫ��:(��¼ҳ_login)
+ Fri, 25 Jan 2019 16:48:37  INFO base_page.py wait_eleVisible [ line:38 ] �ȴ�Ԫ�سɹ�:��¼ҳ_login����ʱ:0.025002002716064453
+ Fri, 25 Jan 2019 16:48:37  INFO base_page.py find_element [ line:46 ] ����Ԫ��:(��¼ҳ_login)
+ Fri, 25 Jan 2019 16:48:37  INFO base_page.py clear_input_text [ line:66 ] ���������ı�:(��¼ҳ_login)
+ Fri, 25 Jan 2019 16:48:37  INFO base_page.py clear_input_text [ line:69 ] ��������ɹ�:(��¼ҳ_login)
+ Fri, 25 Jan 2019 16:48:37  INFO base_page.py find_element [ line:46 ] ����Ԫ��:(��¼ҳ_login)
+ Fri, 25 Jan 2019 16:48:37  INFO base_page.py send_keys [ line:77 ] ��¼ҳ_login_�����ı�:python
+ Fri, 25 Jan 2019 16:48:37  INFO base_page.py send_keys [ line:80 ] ��¼ҳ_login_�����ı��ɹ�:python
+ Fri, 25 Jan 2019 16:48:37  INFO base_page.py click_element [ line:55 ] ���Ԫ��:(��¼ҳ_login)
+ Fri, 25 Jan 2019 16:48:37  INFO base_page.py click_element [ line:58 ] ���Ԫ�سɹ�:(��¼ҳ_login)
+ Fri, 25 Jan 2019 16:48:37  INFO base_page.py wait_eleVisible [ line:33 ] �ȴ�Ԫ��:(��¼ҳ_error_from_text)
+ Fri, 25 Jan 2019 16:48:37  INFO base_page.py wait_eleVisible [ line:38 ] �ȴ�Ԫ�سɹ�:��¼ҳ_error_from_text����ʱ:0.0260009765625
+ Fri, 25 Jan 2019 16:48:37  INFO base_page.py find_element [ line:46 ] ����Ԫ��:(��¼ҳ_error_from_text)
+ Fri, 25 Jan 2019 16:48:37  INFO base_page.py get_eleText [ line:88 ] ��ȡԪ���ı�:(��¼ҳ_error_from_text)
+ Fri, 25 Jan 2019 16:48:37  INFO test_00_login_v2.py test_login_error_form [ line:44 ] ����ͨ��
+ Fri, 25 Jan 2019 16:48:37  INFO test_00_login_v2.py test_login_error_form [ line:53 ] excel��д�ز��Խ��

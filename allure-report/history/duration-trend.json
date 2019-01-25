@@ -1,0 +1,99 @@
+[ {
+  "buildOrder" : 26,
+  "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/26/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 32650
+  }
+}, {
+  "buildOrder" : 25,
+  "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/25/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 31548
+  }
+}, {
+  "buildOrder" : 24,
+  "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/24/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 33139
+  }
+}, {
+  "buildOrder" : 23,
+  "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/23/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 31806
+  }
+}, {
+  "buildOrder" : 22,
+  "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/22/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 32051
+  }
+}, {
+  "buildOrder" : 21,
+  "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/21/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 31917
+  }
+}, {
+  "buildOrder" : 20,
+  "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/20/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 32092
+  }
+}, {
+  "buildOrder" : 19,
+  "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/19/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 32835
+  }
+}, {
+  "buildOrder" : 18,
+  "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/18/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 31404
+  }
+}, {
+  "buildOrder" : 17,
+  "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/17/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 33522
+  }
+}, {
+  "buildOrder" : 16,
+  "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/16/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 31408
+  }
+}, {
+  "buildOrder" : 15,
+  "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/15/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 214582
+  }
+}, {
+  "buildOrder" : 14,
+  "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/14/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 226243
+  }
+}, {
+  "buildOrder" : 13,
+  "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/13/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 32160
+  }
+} ]

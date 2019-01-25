@@ -1,0 +1,135 @@
+{
+  "uid" : "e5b075db7b4ec261",
+  "name" : "test_00_login_v2.test_demo",
+  "fullName" : "python10_WebAuto.Test_Case.test_00_login_v2.test_demo",
+  "historyId" : "b94900cbe102f7cf178e14cca5e5c716",
+  "time" : {
+    "start" : 1548406111537,
+    "stop" : 1548406111545,
+    "duration" : 8
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e16afbda0e3297a0",
+      "name" : "Captured stdout call",
+      "source" : "e16afbda0e3297a0.txt",
+      "type" : "text/plain",
+      "size" : 13
+    }, {
+      "uid" : "4627cd5f56abde7f",
+      "name" : "Captured log setup",
+      "source" : "4627cd5f56abde7f.txt",
+      "type" : "text/plain",
+      "size" : 156
+    }, {
+      "uid" : "d2338fa2a7c4d565",
+      "name" : "Captured stderr setup",
+      "source" : "d2338fa2a7c4d565.txt",
+      "type" : "text/plain",
+      "size" : 234
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "mucang-PC"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "8948-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "python10_WebAuto.Test_Case"
+  }, {
+    "name" : "testClass",
+    "value" : "python10_WebAuto.Test_Case"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_00_login_v2.test_demo"
+  }, {
+    "name" : "package",
+    "value" : "python10_WebAuto.Test_Case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "537ac2708a8c595a",
+        "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/25/allure/#testresult/537ac2708a8c595a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544779821832,
+          "stop" : 1544779821839,
+          "duration" : 7
+        }
+      }, {
+        "uid" : "3ceec065d61fa837",
+        "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/18/allure/#testresult/3ceec065d61fa837",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544775638675,
+          "stop" : 1544775638683,
+          "duration" : 8
+        }
+      }, {
+        "uid" : "c7c2a9e9395764e1",
+        "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/17/allure/#testresult/c7c2a9e9395764e1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544774989776,
+          "stop" : 1544774989783,
+          "duration" : 7
+        }
+      }, {
+        "uid" : "5ed8a2c86b569f4",
+        "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/16/allure/#testresult/5ed8a2c86b569f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544774184853,
+          "stop" : 1544774184868,
+          "duration" : 15
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e5b075db7b4ec261.json",
+  "parameterValues" : [ ]
+}

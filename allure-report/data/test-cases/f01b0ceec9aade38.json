@@ -1,0 +1,141 @@
+{
+  "uid" : "f01b0ceec9aade38",
+  "name" : "test_00_login_v2.TestLogin.test_login_error_pageCenter[data0]",
+  "fullName" : "python10_WebAuto.Test_Case.test_00_login_v2.TestLogin.test_login_error_pageCenter[data0]",
+  "historyId" : "ccd6e61bf8ae989b757777fc5e5e2dfd",
+  "time" : {
+    "start" : 1548406119953,
+    "stop" : 1548406121233,
+    "duration" : 1280
+  },
+  "description" : "异常登录【错误提示pageCenter-totast】，测试用例步骤及断言实现一样的可以通过ddt来执行",
+  "descriptionHtml" : "<p>异常登录【错误提示pageCenter-totast】，测试用例步骤及断言实现一样的可以通过ddt来执行</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f1fe17599767f48c",
+      "name" : "Captured log setup",
+      "source" : "f1fe17599767f48c.txt",
+      "type" : "text/plain",
+      "size" : 86
+    }, {
+      "uid" : "27c71ad8b7129977",
+      "name" : "Captured stderr call",
+      "source" : "27c71ad8b7129977.txt",
+      "type" : "text/plain",
+      "size" : 3243
+    }, {
+      "uid" : "db479930dd3d31fa",
+      "name" : "Captured log call",
+      "source" : "db479930dd3d31fa.txt",
+      "type" : "text/plain",
+      "size" : 2112
+    }, {
+      "uid" : "730934dfea027e57",
+      "name" : "Captured stderr setup",
+      "source" : "730934dfea027e57.txt",
+      "type" : "text/plain",
+      "size" : 141
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "mucang-PC"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "8948-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "python10_WebAuto.Test_Case"
+  }, {
+    "name" : "testClass",
+    "value" : "python10_WebAuto.Test_Case"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_00_login_v2.TestLogin.test_login_error_pageCenter[data0]"
+  }, {
+    "name" : "package",
+    "value" : "python10_WebAuto.Test_Case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "dbb4f91963fcb8a9",
+        "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/25/allure/#testresult/dbb4f91963fcb8a9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544779829254,
+          "stop" : 1544779830369,
+          "duration" : 1115
+        }
+      }, {
+        "uid" : "352c63482c560e9b",
+        "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/18/allure/#testresult/352c63482c560e9b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544775645928,
+          "stop" : 1544775647067,
+          "duration" : 1139
+        }
+      }, {
+        "uid" : "bef13bd0b99c9dc",
+        "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/17/allure/#testresult/bef13bd0b99c9dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544774999178,
+          "stop" : 1544775000278,
+          "duration" : 1100
+        }
+      }, {
+        "uid" : "d7b72ed506e8c122",
+        "reportUrl" : "http://192.168.3.117:8080/job/python10_WebAuto/16/allure/#testresult/d7b72ed506e8c122",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544774192231,
+          "stop" : 1544774193315,
+          "duration" : 1084
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "f01b0ceec9aade38.json",
+  "parameterValues" : [ ]
+}

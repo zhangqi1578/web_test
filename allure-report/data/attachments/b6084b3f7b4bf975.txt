@@ -1,0 +1,2 @@
+ Fri, 25 Jan 2019 16:48:31  INFO conftest.py init_driver [ line:30 ] ��ʼ��chrome�����
+ Fri, 25 Jan 2019 16:48:35  INFO conftest.py init_loginPage [ line:41 ] ִ�в�������,����ǰ�̴���¼ҳ��
